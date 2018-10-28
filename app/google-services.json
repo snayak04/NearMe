@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "535519562767",
+    "firebase_url": "https://hackohio-220715.firebaseio.com",
+    "project_id": "hackohio-220715",
+    "storage_bucket": "hackohio-220715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535519562767:android:c789e8a2b96d1520",
+        "android_client_info": {
+          "package_name": "com.example.mapdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535519562767-j63cqk20c809e1fpblbdaqbmvvmiequl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapdemo",
+            "certificate_hash": "70ea5b3674c45db7a0c94c20da02eb42a13c0001"
+          }
+        },
+        {
+          "client_id": "535519562767-540tdqkh4nsin0ms2dlamvlhrel48nlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7vsval1VSpmzR49dobiD3VCRYF9wdex8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535519562767-540tdqkh4nsin0ms2dlamvlhrel48nlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
